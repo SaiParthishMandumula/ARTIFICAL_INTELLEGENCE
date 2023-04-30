@@ -1,6 +1,5 @@
 Task:2
-NAME: Sai Parthish Mandumula.
-UTA ID: 1002022847.
+
 
 CODE STRUCTURE:
     IterateAvailableSlots  functions is to calculate  for available moves.

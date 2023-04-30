@@ -1,4 +1,4 @@
-#sai parthish mandumula.
+
 import sys
 
 def CalculateUnknownStates(GivenStates):

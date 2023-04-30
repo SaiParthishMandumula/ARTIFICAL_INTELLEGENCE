@@ -1,6 +1,4 @@
-Name:Sai Parthish Mandumula
-UTA ID:	1002022847
-Net ID:	sxm2847
+
 Language: Python 3
 
 Task 2:

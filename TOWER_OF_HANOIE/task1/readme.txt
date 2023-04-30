@@ -1,5 +1,4 @@
-Name : Sai Parthish Mandumula
-ID : 1002022847
+
 
 To Start with execute the following command:
   make graphplan

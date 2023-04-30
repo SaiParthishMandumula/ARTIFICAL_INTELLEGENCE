@@ -1,5 +1,4 @@
-Name: Sai Parthish Mandumula.
-UTA ID: 1002022847.
+
 
 Task is solved using python 3.7.9. No external is  installation required.
 
